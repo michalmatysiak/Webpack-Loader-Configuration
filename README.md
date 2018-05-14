@@ -1,1 +1,1 @@
-# Webpack-Loader-Configuration
+# Webpack-Loader
